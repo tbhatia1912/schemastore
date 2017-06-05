@@ -624,6 +624,11 @@
       "description": "xUnit.net runner configuration file",
       "fileMatch": [ "xunit.runner.json" ],
       "url": "http://json.schemastore.org/xunit.runner.schema"
+    },
+    {
+      "name": "mashling-schema.json",
+      "description": "JSON schema for mashling configuration file",
+      "url": "http://json.schemastore.org/mashling.schema"
     }
   ]
 }
